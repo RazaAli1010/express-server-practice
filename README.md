@@ -5,3 +5,5 @@
 2. I have try to implement best practices.
 
 3. Implemented CRUD operation with in memory arrays instead of a database.
+
+4. Implemented a custom logger using Winston and Morgan.
